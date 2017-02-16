@@ -8,6 +8,7 @@ Nearly all of the programs are written in Go, with Go installed on your computer
 ```
 go build
 ```
+(Note: In retrospect I am realizing that unless your gopath is set properly this might not work, and my next task will be to structure this differently)
 
 ### Prerequisites
 
